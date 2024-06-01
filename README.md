@@ -1,4 +1,4 @@
-<b>Handwritten Digits Machine Learning Project: Try 1<\b>
+<b>Handwritten Digits Machine Learning Project: Try 1</b>
 
 To run this project, you will want to download the handwritten.keras file, the main.py file, AND the digits file.
 If you prefer to test your own digits, you do not need to download the digits file itself, rather create one and
