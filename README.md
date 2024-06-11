@@ -13,6 +13,14 @@ my model then immediately run it, so I do not know the output if you do this.
 handwritten.keras is the file you need that is already pretrained, though, so if you'd like to run that with the
 10 trained epochs, you can.
 
-My accuracy on 10 epochs was 75% with the digits I fed it. Your mileage may vary, though the tutorial I followed
+My accuracy on 10 epochs was 50% with the digits I fed it. Your mileage may vary, though the tutorial I followed
 got a nearly 92% accuracy on 3 epochs, so I am not sure what I did wrong or how mine changed. I did use different
 digits than the YouTuber did, though, which may have lead to the discrepancies.
+
+Used:
+Python 3.12
+TensorFlow 2.16.1
+opencv-python 4.10.0.82
+matplotlib 3.9.0
+numpy 1.26.4
+keras 3.3.3
