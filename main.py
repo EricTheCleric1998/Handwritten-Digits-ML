@@ -86,6 +86,7 @@ if options.train or options.cnn:
     model.save('handwritten.keras')
 
 model = tf.keras.models.load_model('handwritten.keras')
+model.summary()
 
 image_number = 1
 
